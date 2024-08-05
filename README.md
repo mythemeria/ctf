@@ -1,2 +1,2 @@
-# ctf
+# CTF
 CTFs I've made
